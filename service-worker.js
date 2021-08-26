@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.26bfba37b1a32e41678c83febb7002d8.js"
+  "precache-manifest.ccfbfd69941bfefb3ba6702d404c3bce.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "inspection"});
